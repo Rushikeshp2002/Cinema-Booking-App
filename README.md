@@ -23,3 +23,15 @@
 <p>9th Step: Open a browser and go to URL “http://localhost/ Cinema-Reservation /”</p>
 
 <h4>Note: For admin panel, go to URL ” http://localhost/ Cinema-Reservation/admin/admin.php”</h4>
+
+<br>
+<hr>
+<h2>Screenshots</h2>
+
+<img src="https://github.com/Rushikeshp2002/Images/blob/main/one.png" style="width=100%"><br>
+<br>
+<img src="https://github.com/Rushikeshp2002/Images/blob/main/two.png" style="width=100%"><br>
+<br>
+<img src="https://github.com/Rushikeshp2002/Images/blob/main/three.png" style="width=100%"><br>
+
+  
